@@ -1,0 +1,9 @@
+.home__container{
+  margin: auto;
+  width: 90%;
+  padding: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
